@@ -1,5 +1,5 @@
-# Date: 05/05/2018
-# Author: Mohamed
+# Date: 14/02/2020
+# Author: SKAR
 # Description: Session Handler
 
 import json
