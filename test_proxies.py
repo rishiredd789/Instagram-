@@ -1,6 +1,6 @@
 '''
-Date: 3/15/2019
-Author: Mohamed
+Date: 29/01/2021
+Author: SKAR
 Description: Reads a file that contains a list of proxies and determines whether or not that list is good.
              Each line in the file must be in the format of ip:port
 '''
