@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed
+# Date: 14/02/2020
+# Author: SKAR
 # Description: Password manager
 
 from time import sleep
