@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed
+# Date: 14/02/2020
+# Author: SKAR
 # Description: A list that will manage proxies 
 
 
