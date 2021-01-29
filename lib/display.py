@@ -1,5 +1,5 @@
-# 12/29/2018
-# Author: Mohamed
+# 14/02/2020
+# Author: SKAR
 # Description: Display
 
 from os import system
